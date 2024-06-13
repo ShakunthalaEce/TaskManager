@@ -1,0 +1,14 @@
+.heading{
+    align-items: center;
+    border-radius: 5rem;
+    background-color: rgb(27, 12, 72);
+    margin: 20px 40px;
+    padding: 20px 40px;
+    /* border-color:white;
+    border-width:10px; */
+    
+}
+ *{
+        margin: 5px;
+        padding: 5px;
+    }

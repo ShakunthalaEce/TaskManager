@@ -1,0 +1,29 @@
+.task-form{
+    margin: 10px;
+    padding: 10px;
+    background-color: #5f68cb;
+    border-radius: 12px;
+}
+.task-form label{
+    display: block;
+    background-color:black;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width:15%;
+}
+.task-form input{
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+.task-form button{
+    border-radius: 12px;
+    padding: 0.5rem;
+    background-color: black;
+    color: white;
+   margin-right: 10px;
+}
+.task-control-buttons{
+    margin-top: 10px ;
+    padding:20px;
+}
